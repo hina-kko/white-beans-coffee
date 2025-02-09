@@ -19,6 +19,6 @@ WHITE BEANS COFFEE の公式ホームページとして、シンプルで洗練�
 - **Drawer.js**（スマホ向けナビゲーション）
 
 ## 📷 Screenshots
-| ホームページ | メニュー | アクセス |
-|-------------|---------|---------|
-| ![Home](images/top.jpg) | ![Menu](images/photo2.jpg) | ![Access](images/photo3.jpg) |
+| TOP | MENU | ABOUT | ACCESS | CONTACT |
+|-------------|---------|---------|---------|---------|
+| ![Image](https://github.com/user-attachments/assets/84239981-e47a-4ee4-8b51-e114109ba473) | ![Image](https://github.com/user-attachments/assets/cfa7470a-5979-4c38-9b04-325ecc073996) | ![Image](https://github.com/user-attachments/assets/c57cb17f-67ba-49e7-a966-a457703f351b) |![Image](https://github.com/user-attachments/assets/e9744792-ef23-4b71-af5f-7dca18c5badf)|![Image](https://github.com/user-attachments/assets/87451441-ab7f-4eac-8fa1-044d32ad2771)|
