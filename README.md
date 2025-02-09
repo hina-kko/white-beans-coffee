@@ -12,7 +12,7 @@ WHITE BEANS COFFEE の公式ホームページとして、シンプルで洗練�
 - **アクセス情報、営業時間、SNSリンクの掲載**
 
 ## 🛠️ Technologies Used
-- **https://img.shields.io/badge/-html5-E34F26.svg?logo=html5**（セマンティックマークアップ）
+- https://img.shields.io/badge/-html5-E34F26　（セマンティックマークアップ）
 - **CSS3**（normalize.cssを活用したスタイリング）
 - **JavaScript**
 - **jQuery**（ハンバーガーメニューやスムーススクロールに使用）
