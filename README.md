@@ -12,11 +12,12 @@ WHITE BEANS COFFEE の公式ホームページとして、シンプルで洗練�
 - **アクセス情報、営業時間、SNSリンクの掲載**
 
 ## 🛠️ Technologies Used
-- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-- **CSS3**（normalize.cssを活用したスタイリング）
-- **JavaScript**
-- **jQuery**（ハンバーガーメニューやスムーススクロールに使用）
-- **Drawer.js**（スマホ向けナビゲーション）
+- [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)　(HTML5)
+- [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+ （CSS3)
+- [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+ (JavaScript)
+- [![My Skills](https://skillicons.dev/icons?i=jquery)](https://skillicons.dev) (jQuery)
 
 ## 📷 Screenshots
 | TOP | MENU | ABOUT | ACCESS | CONTACT |
